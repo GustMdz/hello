@@ -4,3 +4,7 @@ Hola! Esta es mi primer interacción con GitHub, mi nombre es Gustavo y actualme
 ![](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
 
 *[Source: GIPHY](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)*
+
+# Hola
+
+Soy Jorge haciendo colaboracion en el repositorio de Gustavo.
