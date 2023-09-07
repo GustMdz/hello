@@ -8,3 +8,8 @@ Hola! Esta es mi primer interacción con GitHub, mi nombre es Gustavo y actualme
 # Hola
 
 Soy Jorge haciendo colaboracion en el repositorio de Gustavo.
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
