@@ -11,6 +11,9 @@ Soy Jorge haciendo colaboracion en el repositorio de Gustavo.
 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/GustMdz/hello/blob/main/docs/Referencias.md).
 
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
